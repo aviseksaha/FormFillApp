@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Welcome!! Avisek DevOps Student Registration Form!!</h1>
+    <h1>Welcome!! Avisek Deployed This App on Tomcat Container!!</h1>
     <p>Please fill in this form!</p>
     <hr>
     <br>
@@ -9,11 +9,11 @@
     <input type="text" placeholder="Enter Username" name="username" id="username" required>
     <br>
 
-    <label for="email"><b>Email</b></label>
+    <label for="email"><b>Work Email</b></label>
     <input type="text" placeholder="Enter Work Email" name="email" id="email" required>
     <br>
 
-    <label for="email"><b>Email</b></label>
+    <label for="email"><b>Personal Email</b></label>
     <input type="text" placeholder="Enter Personal Email" name="email" id="email" required>
     <br>
 
