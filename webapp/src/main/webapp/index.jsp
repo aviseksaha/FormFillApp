@@ -1,8 +1,12 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Congrats!! You deployed third project again</h1>
+    <h1>Congrats!! You deployed the final project</h1>
     <p>Please fill in this form!</p>
     <hr>
+    <br>
+
+    <label for="username"><b>Your Name</b></label>
+    <input type="text" placeholder="Enter Username" name="username" id="username" required>
     <br>
 
     <label for="username"><b>Username</b></label>
